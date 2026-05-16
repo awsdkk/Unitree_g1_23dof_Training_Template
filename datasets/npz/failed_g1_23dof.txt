@@ -1,0 +1,1 @@
+/home/leju/big_disk/qmh/unitree_rl_mjlab/models/csv/lafan1_retargeted/fallAndGetUp2_subject2.csv

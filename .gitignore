@@ -1,0 +1,27 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Editor and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Training/runtime logs
+*.log
+events.out.tfevents*
+wandb/
+runs/
+logs/
+checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
